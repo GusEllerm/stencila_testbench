@@ -1,0 +1,3 @@
+[submodule "example_publication"]
+	path = example_publication
+	url = https://github.com/LivePublication/LP_Pub_LID.git

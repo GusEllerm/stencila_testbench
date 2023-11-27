@@ -1,1 +1,1 @@
-Testing stencila bindings & recreating a test publication.,
+Testing stencila bindings & recreating a test publication.

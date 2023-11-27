@@ -1,0 +1,44 @@
+---
+fundedBy:
+- type: MonetaryGrant
+  funders:
+  - type: Organization
+    description:
+      type: Text
+      value: A government department in Wellington, New Zealand
+    name: Ministry of Business, Innovation and Employment
+abstract:
+- type: Paragraph
+  content:
+  - type: Text
+    value: This article presents an early look at how the LivePublication framework can enable live, updating components and generative content for computationally driven sciences. Presented is a language identification performance task, comparing the accuracy of two methods (langdetect and fastText).
+authors:
+- type: Person
+  affiliations:
+  - type: Organization
+    description:
+      type: Text
+      value: A university in Christchurch, New Zealand
+    name: University of Canterbury
+  name: Augustus Ellerm
+- type: Person
+  name: Benjamin Adams
+- type: Person
+  name: Mark Gahegan
+dateCreated:
+  type: Date
+  value: 2023-11-20T00:00:00
+dateModified:
+  type: Date
+  value: 2023-11-27T09:04:18.384335
+keywords:
+- Example
+- LID
+- Computational Linguistics
+title:
+- type: Text
+  value: Language identification method comparison
+description:
+  type: Text
+  value: A test article constructed with the stencila python bindings
+---
